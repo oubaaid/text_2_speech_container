@@ -67,5 +67,5 @@ After running the program, you should see an output message similar to:
 Audio saved as output_files/output.mp3
 
 
-
+. ├── app.py # Main Python script that handles text-to-speech conversion and speed adjustment ├── Dockerfile # Docker configuration to build the application container ├── requirements.txt # Python dependencies file ├── story.txt # Text file containing the story or content to be converted to speech └── output_files/ # Directory where generated audio files are saved └── output_030124.mp3 # Example output audio file
 
