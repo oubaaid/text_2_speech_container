@@ -24,12 +24,14 @@ Before running this project, you need to have the following installed:
 ## Project File Organization
 
 The project is structured as follows:
+```
 ├── app.py # Main Python script that handles text-to-speech conversion and speed adjustment
 ├── Dockerfile # Docker configuration to build the application container
 ├── requirements.txt # Python dependencies file
 ├── story.txt # Text file containing the story or content to be converted to speech
 └── output_files/ # Directory where generated audio files are saved
   └── output.mp3 # Example output audio file
+```
 
 ## Installation
 
