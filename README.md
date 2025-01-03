@@ -1,5 +1,9 @@
 # text_2_speech_container with playback speed tuning
 
+<p align="center">
+  <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5qlUjx_qR2rKi6_QT0ezsMH-ptpGpJpICWPJW8tAmbgZXUFlO" alt="Image description" />
+</p>
+
 # Audio Generation with gTTS and Pydub
 
 This repository provides a Python-based solution for generating audio from text using Google Text-to-Speech (gTTS) and speeding up the generated audio using Pydub. The text is read from a `story.txt` file, converted to speech, and saved as an audio file. The audio is then sped up to make it more suitable for quick narrations.
